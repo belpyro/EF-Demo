@@ -1,0 +1,208 @@
+GET https://localhost:7047/api/test/write/2
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-01-25T121547.200.json
+
+###
+
+GET https://localhost:7047/api/test/write/2
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-01-25T121515.200.json
+
+###
+
+GET https://localhost:7047/api/test/write/1
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-01-25T120828.200.json
+
+###
+
+GET https://localhost:7047/api/test/write/3
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET https://localhost:7047/api/test/write/3
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET https://localhost:7047/api/test/write/5
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET https://localhost:7047/api/test/write/3
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET https://localhost:7047/api/test/write/4
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET https://localhost:7047/api/test/write/4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET https://localhost:7047/api/test/write/3
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET https://localhost:7047/api/test/write/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-01-24T200152.200.json
+
+###
+
+GET https://localhost:7047/api/test/write/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-01-24T200115.200.json
+
+###
+
+GET https://localhost:7047/api/test/write/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-01-24T195304.200.json
+
+###
+
+GET https://localhost:7047/api/test/write/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET https://localhost:7047/Operation/read
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET https://localhost:7047/Operation/read
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET https://localhost:7047/Operation/read
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET https://localhost:7047/Operation/read
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET https://localhost:7047/operation/read
+Accept: application/json
+
+###
+
+GET https://localhost:7047/operation/read
+Accept: application/json
+
+###
+
+GET https://localhost:7047/operation/read
+Accept: application/json
+
+###
+
+GET https://localhost:7047/operation/read
+Accept: application/json
+
+###
+
+GET https://localhost:7047/operation/read
+Accept: application/json
+
+###
+
+GET https://localhost:7047/operation/read
+Accept: application/json
+
+###
+
+GET https://localhost:7047/operation/read
+Accept: application/json
+
+###
+
+GET https://localhost:7047/operation/read
+Accept: application/json
+
+###
+
+GET https://localhost:7047/operation/read
+Accept: application/json
+
+<> 2022-12-07T125710.500.txt
+
+###
+
+GET https://localhost:7047/operation/read
+Accept: application/json
+
+###
+
+GET https://localhost:7047/operation/read
+Accept: application/json
+
+###
+
+GET https://localhost:7047/operation/read
+Accept: application/json
+
+###
+
